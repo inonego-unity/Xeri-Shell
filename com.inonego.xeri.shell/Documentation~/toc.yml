@@ -1,0 +1,22 @@
+- name: Xeri Shell
+  href: index.md
+- name: Getting Started
+  items:
+  - name: 설치
+    href: getting-started/installation.md
+- name: 개념
+  items:
+  - name: 구조와 의존 방향
+    href: concepts/architecture.md
+- name: 모듈
+  items:
+  - name: Window
+    href: modules/window.md
+  - name: Tray
+    href: modules/tray.md
+  - name: View
+    href: modules/view.md
+- name: 가이드
+  items:
+  - name: Window와 View Source 연결하기
+    href: guides/create-window-view.md

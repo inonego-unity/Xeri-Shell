@@ -1,0 +1,13 @@
+{
+  "name": "com.inonego.xeri.shell",
+  "version": "0.0.1",
+  "displayName": "Xeri Shell",
+  "description": "Shell framework for Xeri UI with Window, Tray, and View session support.",
+  "unity": "6000.0",
+  "author": {
+    "name": "inonego"
+  },
+  "dependencies": {
+    "com.inonego.xeri": "0.0.1"
+  }
+}

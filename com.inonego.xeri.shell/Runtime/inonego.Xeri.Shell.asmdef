@@ -1,0 +1,16 @@
+{
+    "name": "inonego.Xeri.Shell",
+    "rootNamespace": "",
+    "references": [
+        "inonego.Xeri"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

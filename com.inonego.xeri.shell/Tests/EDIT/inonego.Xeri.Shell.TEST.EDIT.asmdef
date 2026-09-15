@@ -1,0 +1,14 @@
+{
+    "name": "inonego.Xeri.Shell.TEST.EDIT",
+    "references": ["inonego.Xeri", "inonego.Xeri.Shell"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": ["TestAssemblies"]
+}
