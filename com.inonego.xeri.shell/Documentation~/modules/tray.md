@@ -116,5 +116,5 @@ Reorder는 입력 세션과 실제 모델 변경을 분리합니다.
 ## 관련 문서
 
 - [Xeri Window](window.md)
-- [Xeri Shell 패키지](../../../README.md)
+- [Xeri Shell 문서](../index.md)
 - [Xeri 확장 계약](https://inonego-unity.github.io/Xeri/docs/concepts/extension-contracts.html)

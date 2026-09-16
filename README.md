@@ -25,7 +25,9 @@
 
 ## Documentation
 
-- [사용자 문서](com.inonego.xeri.shell/Documentation~/index.md)
+- **Documentation Site** — https://inonego-unity.github.io/Xeri-Shell/
+- **API Reference** — https://inonego-unity.github.io/Xeri-Shell/api/index.html
+- [Manual source](com.inonego.xeri.shell/Documentation~/index.md)
 - [설치](com.inonego.xeri.shell/Documentation~/getting-started/installation.md)
 - [구조와 의존 방향](com.inonego.xeri.shell/Documentation~/concepts/architecture.md)
 

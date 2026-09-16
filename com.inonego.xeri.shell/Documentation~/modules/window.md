@@ -129,6 +129,6 @@ Registry는 Controller의 위치·크기·상태 이벤트를 받아 대응하�
 
 - [Xeri Tray](tray.md)
 - [Xeri View](view.md)
-- [Xeri Shell 패키지](../../../README.md)
+- [Xeri Shell 문서](../index.md)
 - [Xeri 소유권과 수명](https://inonego-unity.github.io/Xeri/docs/concepts/ownership-and-lifetime.html)
 - [Xeri 확장 계약](https://inonego-unity.github.io/Xeri/docs/concepts/extension-contracts.html)
